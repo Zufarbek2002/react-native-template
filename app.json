@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "nativewind",
-    "slug": "nativewind",
+    "name": "react-native-template",
+    "slug": "react-native-template",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
